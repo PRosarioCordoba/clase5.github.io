@@ -1,0 +1,41 @@
+.Dias{
+    font-weight: bold;
+    font-size: 20px;
+    text-align:center;
+}
+.Horarios{
+    font-style: italic;
+    text-align:center;
+}
+.Habiles{
+    background-color: pink
+}
+.Sabados{
+    background-color: violet
+}
+.Otros{
+    background-color: rgb(228, 169, 228);
+}
+.Header{
+    background-color: beige;
+    width: 30%;
+    height: 100%;
+}
+.Legales{
+    background-color: rgb(99, 99, 25);
+    width: 30%;
+    height: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+}
+.Formulario{
+    background-color:rgb(245, 188, 197);
+    border: 4px dotted; 
+    padding:40px;
+    margin:10px;
+    display: inline-table;
+    text-align:center;
+}
+.Lista{
+    list-style: none;
+}
